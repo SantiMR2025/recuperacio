@@ -55,7 +55,12 @@ Cada archivo contiene el texto indicado en el enunciado.
 📸 **Captura 1 – Carpeta Dades y archivos creados**
 
     ruta/de/la/captura1.png
-
+![img](img/0006.png)
+![img](img/0001.png)
+![img](img/0002.png)
+![img](img/0003.png)
+![img](img/0004.png)
+![img](img/0005.png)
 ***
 
 ### 4.2 Creación de la tarea de backup completo
@@ -70,6 +75,11 @@ Se crea una nueva tarea en Cobian Backup con las siguientes características:
 📸 **Captura 2 – Configuración de la tarea de backup completo**
 
     ruta/de/la/captura2.png
+![img](img/0008.png)
+![img](img/0009.png)
+![img](img/0010.png)
+![img](img/0011.png)
+![img](img/0012.png)
 
 ***
 

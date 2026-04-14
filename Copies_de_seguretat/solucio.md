@@ -72,14 +72,10 @@ Se crea una nueva tarea en Cobian Backup con las siguientes características:
 *   Destino: Disco RAID 1
 *   Programación: Fecha y hora concreta
 
-📸 **Captura 2 – Configuración de la tarea de backup completo**
-
-    ruta/de/la/captura2.png
 ![img](img/0008.png)
 ![img](img/0009.png)
 ![img](img/0010.png)
 ![img](img/0011.png)
-![img](img/0012.png)
 
 ***
 
@@ -87,9 +83,7 @@ Se crea una nueva tarea en Cobian Backup con las siguientes características:
 
 Se comprueba que la copia se ha ejecutado correctamente mediante el archivo de log.
 
-📸 **Captura 3 – Log de backup completo realizado correctamente**
-
-    ruta/de/la/captura3.png
+![img](img/0012.png)
 
 ***
 
@@ -107,6 +101,7 @@ Se crea una nueva tarea con:
 📸 **Captura 4 – Configuración tarea incremental**
 
     ruta/de/la/captura4.png
+![img](img/0013.png)
 
 ***
 
